@@ -1,6 +1,6 @@
 <div align="center">
    <h1> 👋 Olá e muito prazer! Sou Atn4s </h1>
-   <img src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif"/>
+   <img src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gif"/>
 </div>  
 
 ## Sobre mim
@@ -41,7 +41,8 @@
 
 ## 📊 Status
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atn4s&show_icons=true&bg_color=00000F"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=Atn4s&show_icons=true&bg_color=00000F"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atn4s&show_icons=true&bg_color=00000F">
   <br>
   <i> "Talk is cheap. Show me the code." - Linus Torvalds </i>
 </div>

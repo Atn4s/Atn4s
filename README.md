@@ -1,7 +1,7 @@
 <div align="center">   
    <h1> Olá! Sou Atn4s! </h1>
    <br>
-   <img src="https://github.com/Atn4s/Atn4s/blob/main/terminal.gif"/>   
+   <img src="https://raw.githubusercontent.com/Atn4s/Atn4s/main/terminal.gif"/>   
    <br>
    <p> - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na UTFPR. </p>
    <p> - 💻 Desenvolvedor apaixonado por animes, jogos e programação. </p>

@@ -13,26 +13,15 @@
 
 <div align="center">
     <h2> Meu Workflow:</h2>
-    <img src="https://img.shields.io/badge/GNU/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Microsoft Windows-00000F?style=for-the-badge&logo=windows&logoColor=white"/>  
-    <br>
-    <img src="https://img.shields.io/badge/MariaDB-00000F?style=for-the-badge&logo=mariadb&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-    <br> 
-    <img src="https://img.shields.io/badge/C Language-00000F?style=for-the-badge&logo=c&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Flutter-00000F?style=for-the-badge&logo=flutter&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white"/>   
-    <br> 
-    <img src="https://img.shields.io/badge/Bootstrap-00000F?style=for-the-badge&logo=bootstrap&logoColor=white"/>     
-    <img src="https://img.shields.io/badge/HTML5-00000F?style=for-the-badge&logo=html5&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/CSS3-00000F?style=for-the-badge&logo=css3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Laravel-00000F?style=for-the-badge&logo=laravel&logoColor=white"/>  
-    <br> 
-    <img src="https://img.shields.io/badge/Shell_Script-00000F?style=for-the-badge&logo=gnu-bash&logoColor=white"/> 
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=linux,windows"/> 
+       <img src="https://skillicons.dev/icons?i=vscode,vscodium,postman,bash"/> <br>
+       <img src="https://skillicons.dev/icons?i=c,flask,flutter,java,php,python"/> <br>
+       <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,jquery,laravel"/> <br>
+       <img src="https://skillicons.dev/icons?i=mysql,postgres"/> <br>
+     </a>
+   </p>
 </div>
 
 <br>

@@ -1,12 +1,12 @@
 <div align="center">   
-   <h1> Olá! Sou Atn4s! </h1>
+   <h1> Bem Vindo ao meu GitHub! </h1>
    <br>
-   <img src="https://raw.githubusercontent.com/Atn4s/Atn4s/main/terminal.gif"/>   
+   <img src="https://raw.githubusercontent.com/Atn4s/Atn4s/main/terminal.gif" alt="terminal escrito echo Hello Friend! e em seguida Welcome to my GitHub!"/>   
    <br>
-   <p> - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na UTFPR. </p>
-   <p> - 💻 Desenvolvedor apaixonado por animes, jogos e programação. </p>
-   <p> - 🎓 Conhecimentos adquiridos na Universidade e pela vastidão da Internet. </p>
-   <p> - 🌐 Curiosidade constante sobre o funcionamento de diversas tecnologias. </p>
+   <p> - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas </p>
+   <p> - 💻 Desenvolvedor com foco em segurança e privacidade de dados </p>
+   <p> - 🎓 Conhecimentos adquiridos tanto na Universidade quanto em projetos pessoais e na vastidão da Internet </p>
+   <p> - 🌐 Sempre explorando novas tecnologias e práticas de desenvolvimento </p>
 </div>  
 
 <br>
@@ -15,12 +15,13 @@
     <h2> Meu Workflow:</h2>
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=linux,windows"/> 
+       <img src="https://skillicons.dev/icons?i=linux,windows"/> <br>
        <img src="https://skillicons.dev/icons?i=vscode,vscodium,postman,bash"/> <br>
        <img src="https://skillicons.dev/icons?i=c,flask,flutter,java,php,python"/> <br>
        <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,jquery,laravel"/> <br>
-       <img src="https://skillicons.dev/icons?i=mysql,postgres"/> <br>
+       <img src="https://skillicons.dev/icons?i=mariadb,mysql,postgres"/> <br>
      </a>
+     <p> Nota: Os ícones representam tanto conhecimentos atuais quanto anteriores adquiridos através da universidade e do estudo pessoal. </p>
    </p>
 </div>
 
@@ -32,5 +33,5 @@
 </div>
 
 <div align="center">
-   <i> "Talk is cheap. Show me the code"</i> <text> - Linus Torvalds </text>
+   <i> "Talk is cheap. Show me the code"</i> - Linus Torvalds
 </div>

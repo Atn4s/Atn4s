@@ -3,7 +3,7 @@
    <br>
    <img src="https://raw.githubusercontent.com/Atn4s/Atn4s/main/terminal.gif" alt="terminal escrito echo Hello Friend! e em seguida Welcome to my GitHub!"/>   
    <br>
-   <p> - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas </p>
+   <p> - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UTFPR </p>
    <p> - 💻 Desenvolvedor com foco em segurança e privacidade de dados </p>
    <p> - 🎓 Conhecimentos adquiridos tanto na Universidade quanto em projetos pessoais e na vastidão da Internet </p>
    <p> - 🌐 Sempre explorando novas tecnologias e práticas de desenvolvimento </p>
@@ -21,7 +21,7 @@
        <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,jquery,laravel"/> <br>
        <img src="https://skillicons.dev/icons?i=mariadb,mysql,postgres"/> <br>
      </a>
-     <p> Nota: Os ícones representam tanto conhecimentos atuais quanto anteriores adquiridos através da universidade e do estudo pessoal. </p>
+     <p> Nota: Os ícones representam tanto conhecimentos atuais quanto anteriores adquiridos através da Universidade e do estudo pessoal. </p>
    </p>
 </div>
 

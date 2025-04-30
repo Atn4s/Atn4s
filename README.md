@@ -1,14 +1,14 @@
 <div align="center">   
    <h1> Present Day, Present Time! HAHAHAHA </h1>
    <br>
-   <img src="https://raw.githubusercontent.com/Atn4s/Atn4s/main/terminal.gif" alt="terminal escrito echo Hello Friend! e em seguida Welcome to my GitHub!"/>   
+   <img src="https://raw.githubusercontent.com/Atn4s/Atn4s/main/terminal.gif" alt="terminal escrito echo Hello Friend, Welcome to my GitHub!"/>
    <br>
    <p> - 👨‍🎓 Análise e Desenvolvimento de Sistemas | UTFPR </p>
    <p> - 🔐 Foco em segurança e privacidade de dados </p>
-</div>  
+</div>
 
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=linux,c,java,python,flask,mysql,postgres"/>  
+   <img src="https://skillicons.dev/icons?i=linux,c,java,python,flask,mysql,postgres"/>
 </div>
 
 <div align="center">

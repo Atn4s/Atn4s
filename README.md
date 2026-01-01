@@ -1,21 +1,24 @@
-<div align="center">   
-   <h1> Present Day, Present Time! HAHAHAHA </h1>
-   <br>
-   <img src="https://raw.githubusercontent.com/Atn4s/Atn4s/main/terminal.gif" alt="terminal escrito echo Hello Friend, Welcome to my GitHub!"/>
-   <br>
-   <p> - 👨‍🎓 Análise e Desenvolvimento de Sistemas | UTFPR </p>
-   <p> - 🔐 Foco em segurança e privacidade de dados </p>
-</div>
-
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=linux,c,java,python,flask,mysql,postgres"/>
-</div>
 
-<div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=Atn4s&show_icons=true&bg_color=00000F" width="568px"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atn4s&show_icons=true&bg_color=00000F" width="250px"/>
-</div>
+<pre>
+<span style="color:#7aa2f7;">
+    ___   __        __ __       
+   /   | / /_____  / // / _____ 
+  / /| |/ __/ __ \/ // /_/ ___/ 
+ / ___ / /_/ / / /__  __(__  )  
+/_/  |_\__/_/ /_/  /_/ /____/   
+</span>
+-------------------
+<span style="color:#7aa2f7;">OS</span>: Linux Mint 22.2 x86_64
+<span style="color:#7aa2f7;">Host</span>: Universidade Tecnológica Federal do Paraná
+<span style="color:#7aa2f7;">Kernel</span>: Master’s Student in Computer Science
+<span style="color:#7aa2f7;">Focus</span>: Computer Vision & Machine Learning
+<span style="color:#7aa2f7;">Uptime</span>: Present Day, Present Time
+<span style="color:#7aa2f7;">Shell</span>: bash
+<span style="color:#7aa2f7;">Editor</span>: VSCode, LunarVIM
+<span style="color:#7aa2f7;">Langs</span>: C, Java, Python
+<span style="color:#7aa2f7;">Hobby</span>: Security & Privacy
+<span style="color:#7aa2f7;">Learning</span>: Low-level, Backend, Linux internals
+</pre>
 
-<div align="center">
-   <i> "Talk is cheap. Show me the code"</i> - Linus Torvalds
 </div>

@@ -9,7 +9,7 @@
 /_/  |_\__/_/ /_/  /_/ /____/   
 </span>
 -------------------
-<span style="color:#7aa2f7;">OS</span>: Linux Mint 22.2 x86_64
+<span style="color:#7aa2f7;">OS</span>: Linux Mint 22.3 x86_64
 <span style="color:#7aa2f7;">Host</span>: Universidade Tecnológica Federal do Paraná
 <span style="color:#7aa2f7;">Kernel</span>: Master’s Student in Computer Science
 <span style="color:#7aa2f7;">Focus</span>: Computer Vision & Machine Learning

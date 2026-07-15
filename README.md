@@ -9,13 +9,13 @@
 /_/  |_\__/_/ /_/  /_/ /____/   
 </span>
 -------------------
-<span style="color:#7aa2f7;">OS</span>: Linux Mint 22.3 x86_64
-<span style="color:#7aa2f7;">Host</span>: Universidade Tecnológica Federal do Paraná
+<span style="color:#7aa2f7;">OS</span>: Linux
+<span style="color:#7aa2f7;">Host</span>: Federal University of Technology – Paraná
 <span style="color:#7aa2f7;">Kernel</span>: Master’s Student in Computer Science
 <span style="color:#7aa2f7;">Researching</span>: Computer Vision & ML
 <span style="color:#7aa2f7;">Uptime</span>: Present Day, Present Time
-<span style="color:#7aa2f7;">Editor</span>: VSCode, LunarVIM
-<span style="color:#7aa2f7;">Shell</span>: bash
+<span style="color:#7aa2f7;">Editor</span>: VS Code, LunarVIM
+<span style="color:#7aa2f7;">Shell</span>: Bash
 <span style="color:#7aa2f7;">Stack</span>: C, Java, Python
 <span style="color:#7aa2f7;">Hobby</span>: Security & Privacy
 <span style="color:#7aa2f7;">Building</span>: Backend & Linux tooling

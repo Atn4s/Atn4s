@@ -1,0 +1,13 @@
+
+[1;38;2;122;162;247m    ___   __        __ __         [0m[1;38;2;122;162;247mOS[0m: Linux
+[1;38;2;122;162;247m   /   | / /_____  / // / _____   [0m[1;38;2;122;162;247mHost[0m: Federal University of Technology – Paraná
+[1;38;2;122;162;247m  / /| |/ __/ __ \/ // /_/ ___/   [0m[1;38;2;122;162;247mKernel[0m: Master’s Student in Computer Science
+[1;38;2;122;162;247m / ___ / /_/ / / /__  __(__  )    [0m[1;38;2;122;162;247mResearching[0m: Computer Vision & ML
+[1;38;2;122;162;247m/_/  |_\__/_/ /_/  /_/ /____/     [0m[1;38;2;122;162;247mUptime[0m: Present Day, Present Time
+                                  [1;38;2;122;162;247mEditor[0m: VS Code, LunarVIM
+                                  [1;38;2;122;162;247mShell[0m: Bash
+                                  [1;38;2;122;162;247mStack[0m: C, Java, Python
+                                  [1;38;2;122;162;247mHobby[0m: Security & Privacy
+                                  [1;38;2;122;162;247mBuilding[0m: Backend & Linux tooling
+                                  [1;38;2;122;162;247mExploring[0m: Low-level & system internals
+
